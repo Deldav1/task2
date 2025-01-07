@@ -1,0 +1,7 @@
+100.5177960395813 completed the game in <function record_player_name at 0x0000027D6A6305E0> seconds.
+65.83660316467285 completed the game in <function record_player_name at 0x00000172CE3F35E0> seconds.
+74.74202847480774 completed the game in <function record_player_name at 0x000001442EF345E0> seconds.
+42.70198655128479 completed the game in <function record_player_name at 0x0000019BB4B935E0> seconds.
+142.37718772888184 completed the game in deividas seconds.
+3.7009830474853516 completed the game in 555.00 seconds.
+2.4730453491210938 completed the game in <class 'str'> seconds.
